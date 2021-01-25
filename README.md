@@ -3,7 +3,7 @@ Repository that includes all of the basic CLI commands for AWS DynamoDB
 
 ## Description
 Part of the study path to the AWS Developer Associate exam. The hosted DynamoDB database was interacted with solely through the Cloud9 CLI. 
-A number of key commands were practiced (and recorded in scratchpad.txt) to interact with Dynamo DB.
+A number of key commands were practiced (and recorded in [scratchpad.txt](https://github.com/mchadds/AWS-DynamoDB-Operations/blob/master/scratchpad.txt)) to interact with Dynamo DB.
 
 ## Commands
 Some of the deployment variations include: 
