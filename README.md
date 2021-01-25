@@ -6,11 +6,20 @@ Part of the study path to the AWS Developer Associate exam. The hosted DynamoDB 
 A number of key commands were practiced (and recorded in [scratchpad.txt](https://github.com/mchadds/AWS-DynamoDB-Operations/blob/master/scratchpad.txt)) to interact with Dynamo DB.
 
 ## Commands
-Some of the deployment variations include: 
-- Immutable deployment
-- Blue/Green deployment
-- Single Docker container via Dockerfile
-- Single Docker Container via Elastic Container Registry (ECR)
+Detail execution of commands can be found in [scratchpad.txt](https://github.com/mchadds/AWS-DynamoDB-Operations/blob/master/scratchpad.txt): 
+```
+create-table
+describe-table
+batch-write-item
+get-item
+batch-get-item
+delete-item
+put-item
+update-item
+scan
+query
+delete-table
+```
 
 
 ## Tools
